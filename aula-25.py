@@ -1,9 +1,9 @@
 """
 Interpolação de strings:
-- %s: String;
-- %d ou %i: Inteiro;
-- %f: Float;
-- %x ou %X: Hexadecimal (ABCDEF0123456789).
+- %s: string;
+- %d ou %i: inteiro;
+- %f: float;
+- %x ou %X: hexadecimal (ABCDEF0123456789).
 """
 
 # Exemplo com uma variável

@@ -1,7 +1,7 @@
 """
 Operadores "in" e "not in":
-- "in": Verifica se um valor está presente em uma sequência (como strings, listas, etc.);
-- "not in": Verifica se um valor NÃO está presente em uma sequência.
+- "in": verifica se um valor está presente em uma sequência (como strings, listas, etc.);
+- "not in": verifica se um valor NÃO está presente em uma sequência.
 
 Strings são iteráveis, e cada caractere de uma string possui um índice.
 Exemplo:

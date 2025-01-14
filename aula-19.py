@@ -1,11 +1,11 @@
 """
 Operadores de comparação (relacionais) em Python:
-- '>' : Maior que (2 > 1);
-- '>=': Maior ou igual a (2 >= 2);
-- '<' : Menor que (1 < 2);
-- '<=': Menor ou igual a (2 <= 2);
-- '==': Igual a ('a' == 'a');
-- '!=': Diferente de ('a' != 'b').
+- '>' : maior que (2 > 1);
+- '>=': maior ou igual a (2 >= 2);
+- '<' : menor que (1 < 2);
+- '<=': menor ou igual a (2 <= 2);
+- '==': igual a ('a' == 'a');
+- '!=': diferente de ('a' != 'b').
 Cada operador retorna um valor booleano (True ou False).
 """
 
