@@ -23,22 +23,22 @@ Formatação básica de strings em Python:
 variavel = "ABC"
 
 # Exibe a variável sem alterações
-print(f"{variavel}")
+print(f'{variavel}')
 
 # Alinha à direita com 10 caracteres
-print(f"{variavel: >10}") 
+print(f'{variavel: >10}') 
 
 # Alinha à esquerda com 10 caracteres
-print(f"{variavel: <10}")
+print(f'{variavel: <10}')
 
 # Centraliza a string com 10 caracteres
-print(f"{variavel: ^10}")
+print(f'{variavel: ^10}')
 
 # Formata o número com 1 casa decimal, preenchido com zeros à esquerda, sinal (+), largura 10 e separador de milhar
-print(f"{1000.4873648123746:0=+10,.1f}") # No terminal: +0001,000.5
+print(f'{1000.4873648123746:0=+10,.1f}') # No terminal: +0001,000.5
 
 # Exibe o número hexadecimal com largura 8, preenchido com zeros à esquerda
-print(f"{1500:08X}") # No terminal: 000005DC
+print(f'{1500:08X}') # No terminal: 000005DC
 
 # Exibe a representação interna da variável usando repr (ideal para depuração)
-print(f"{variavel!r}") # No terminal: 'ABC'
+print(f'{variavel!r}') # No terminal: 'ABC'

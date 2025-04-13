@@ -19,4 +19,4 @@ print(type(1)) # Saída: <class 'int'>
 print(type(1.1)) # Saída: <class 'float'>
 
 # No editor de código, você pode usar Ctrl + / para comentar ou descomentar várias linhas de uma vez
-# print("Esta linha está comentada e não será executada")
+# print('Esta linha está comentada e não será executada')

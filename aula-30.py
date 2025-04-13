@@ -22,8 +22,8 @@ carro_recebeu_multa_radar_1 = carro_excedeu_velocidade_radar_1 and carro_dentro_
 
 # Saídas
 if carro_excedeu_velocidade_radar_1:
-    print("O carro está acima da velocidade permitida no radar 1.")
+    print('O carro está acima da velocidade permitida no radar 1.')
 if carro_dentro_alcance_radar_1:
-    print("O carro está dentro da área de alcance do radar 1.")
+    print('O carro está dentro da área de alcance do radar 1.')
 if carro_recebeu_multa_radar_1:
-    print("O carro foi multado no radar 1.")
+    print('O carro foi multado no radar 1.')
